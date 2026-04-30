@@ -1,5 +1,7 @@
 # Softwaretechnikpreis
 
+<img src="https://fb-swt.gi.de/fileadmin/GI/Allgemein/Logos/GI_Logo_FB-SWT.png" width="300">
+
 Der [Fachbereich Softwaretechnik](https://fb-swt.gi.de/) der Gesellschaft für Informatik (GI) vergibt Preise für herausragende Dissertationen, Masterarbeiten und Bachelorarbeiten in der Softwaretechnik. Die Preise werden auf der jährlich stattfindenden [Software Engineering Tagung](https://fb-swt.gi.de/aktivitaeten/veranstaltungen) verliehen.
 
 Diese Webseite befindet sich im Aufbau. In Kürze gibt es eine Liste der Preisträger*innen und Aufrufe zur Nominierung von wissenschaftlichen Arbeiten.
