@@ -4,7 +4,7 @@ Der [Fachbereich Softwaretechnik](https://fb-swt.gi.de/) der Gesellschaft für I
 
 Diese Webseite befindet sich im Aufbau. In Kürze gibt es eine Liste der Preisträger*innen und Aufrufe zur Nominierung von wissenschaftlichen Arbeiten.
 
-## Preisträger*innen 2026
+## Aktuelle Preisträger*innen
 
 [Preisträger*innen](history/)
 
