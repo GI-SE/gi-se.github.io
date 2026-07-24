@@ -2,7 +2,7 @@
 
 <img src="https://fb-swt.gi.de/fileadmin/GI/Allgemein/Logos/GI_Logo_FB-SWT.png" width="300">
 
-Der [Fachbereich Softwaretechnik](https://fb-swt.gi.de/) der Gesellschaft für Informatik (GI) vergibt Preise für herausragende Dissertationen, Masterarbeiten und Bachelorarbeiten in der Softwaretechnik. Die Preise werden auf der jährlich stattfindenden [Software Engineering Tagung](https://fb-swt.gi.de/aktivitaeten/veranstaltungen) verliehen.
+Der [Fachbereich Softwaretechnik](https://fb-swt.gi.de/) der Gesellschaft für Informatik (GI) vergibt Preise für herausragende [Dissertationen](dissertationen), Masterarbeiten und Bachelorarbeiten in der Softwaretechnik. Die Preise werden auf der jährlich stattfindenden [Software Engineering Tagung](https://fb-swt.gi.de/aktivitaeten/veranstaltungen) verliehen.
 
 Diese Webseite befindet sich im Aufbau. In Kürze gibt es eine Liste der Preisträger*innen und Aufrufe zur Nominierung von wissenschaftlichen Arbeiten.
 
@@ -18,7 +18,7 @@ Diese Webseite befindet sich im Aufbau. In Kürze gibt es eine Liste der Preistr
 
 <img src="https://mbe.informatik.uni-siegen.de/wp-content/uploads/sites/8/2020/04/MalteLochau-PB-796x1024.jpg" alt="Malte Lochau" width="200">
 
-[Malte Lochau](https://mbe.informatik.uni-siegen.de/team/malte-lochau/), Universität Siegen (Dissertationen)
+[Malte Lochau](https://mbe.informatik.uni-siegen.de/team/malte-lochau/), Universität Siegen ([Dissertationen](dissertationen))
 
 <img src="https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=p&p=901852&token=13378a2ba2d1d50d7d61b9d1cb2991fee5d7b4da" alt="Thomas Thüm" width="200">
 
