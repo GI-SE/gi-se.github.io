@@ -14,7 +14,7 @@ Vorschlagsberechtigt sind alle Professorinnen und Professoren wissenschaftlicher
 
 Es können Dissertationen vorgeschlagen werden, deren Abschlussprüfung im Zeitraum vom 1. Oktober des Vorjahres bis zum 30. September das laufenden Jahres liegt.
 
-Senden Sie als Vorschlagsberechtigte als pdf an [swt-dess-preis@uni-siegen.de](mailto:swt-dess-preis@uni-siegen.de)
+Senden Sie als Vorschlagsberechtigte als pdf an [swt-diss-preis@uni-siegen.de](mailto:swt-diss-preis@uni-siegen.de)
 - Die vorgeschlagene Dissertationsschrift
 - Ihr Begründungsschreiben, wieso die Dissertation preiswürdig ist.
 
