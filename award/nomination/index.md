@@ -18,8 +18,14 @@ Um teilnahmeberechtigt zu sein, muss die Abschlussarbeit zwischen dem **1. Oktob
 - Einreichungsfrist für Nominierungen: **12. Oktober 2026** **(AoE)**
 - Preisverleihung: **25. Februar 2027**
 
+## Wichtige Infos
+
 Hinweis: Ausgewählte Kandidat*innen müssen sich für das Hauptprogramm der SE-Konferenz anmelden, um teilnehmen zu können.
 
 Für alle angenommenen und vorgestellten Beiträge werden Zusammenfassungen im **Begleitband** der SE-Konferenz veröffentlicht.
 Die besten Beiträge werden im Rahmen der Preisverleihung beim Konferenzdinner mit **Preisen und Urkunden** ausgezeichnet.
+
+Die Details für den [Bachelor- und Masterpreis](students) finden sie hier: [https://gi-se.github.io/award/nomination/students](https://gi-se.github.io/award/nomination/students)
+
+Die Details für den [Dissertationspreis](dissertations)  finden sie hier: [https://gi-se.github.io/award/nomination/dissertations](https://gi-se.github.io/award/nomination/dissertations)
 
