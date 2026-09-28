@@ -25,7 +25,9 @@ Für die erste Einreichung reichen Sie bitte Folgendes ein:
 Beiträge müssen über EasyChaireingereicht werden. Für die Zusammenfassungen ist die [GI-LNI-Vorlage](https://github.com/gi-ev/LNI) zu verwenden. 
 
 Link zur Einreichung:
-- TBD
+- Masterarbeiten: https://easychair.org/conferences/?conf=se27stpm
+- Bachelorarbeiten: https://easychair.org/conferences/?conf=se27stpb
+
 
 ## Auswahl und Präsentation
 
