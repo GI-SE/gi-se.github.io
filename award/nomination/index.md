@@ -15,6 +15,7 @@ Die genauen Anforderungen für die Einreichung sind auf den jeweiligen Seiten be
 ## Wichtige Termine
 Um teilnahmeberechtigt zu sein, muss die Abschlussarbeit zwischen dem **1. Oktober 2025** und dem **30. September 2026** an einer D-A-CH-Hochschule (Deutschland, Österreich, Schweiz) fertiggestellt worden sein.
 
+- **Wichtig: Verlängerte Einreichungsfrist für den Bachelor- und Masterpreis: 26. Oktober 2026**
 - Einreichungsfrist für Nominierungen: **12. Oktober 2026** **(AoE)**
 - Preisverleihung: **25. Februar 2027**
 
